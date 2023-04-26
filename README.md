@@ -1,5 +1,5 @@
 ### Structure
-- (The structure of our code is a little messy due to version control and multiple people applying changes to the same file without a way to merge the multiple, checked out, files.)
+(The structure of our code is a little messy due to version control and multiple people applying changes to the same file without a way to merge the multiple, checked out, files.)
 * RNN_working_memory_Project is the actual current project Q1 through Q7
 * RNN_working_memory_Project_Q8 contains the code for Q8 at the bottom.
 * RNN_working_memory_Project_Q9 contains the code for Q9 at the bottom.
